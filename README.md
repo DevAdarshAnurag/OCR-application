@@ -7,5 +7,5 @@ First of all copy all the java files into app>java folder.
 Next copy the layout, drawable and string folders into res folder.
 Now copy the android manifest xml file in manifests folder.
 
-*Better get your own api key from ocr space api
+*Better get your own api key from ocr space api.
 *The result displayed depends upon the ocr-space server.
