@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCR - Image to Text</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+</resources>
