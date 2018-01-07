@@ -1,11 +1,14 @@
 # OCR-application
-Android application to extract text in images into a text file.  
+Android application to extract text in images into a text file.
+
 This application uses Ocr space api for image to text conversions.
+
 This application was build for android 5.0 and above.
 In order to run the application, use supported version of android studio.
+
 First of all copy all the java files into app>java folder.
-Next copy the layout, drawable and string folders into res folder.
-Now copy the android manifest xml file in manifests folder.
+Next copy all the layout xml files into res>layout folder, followed by string xml files into res>string and 2 png images into drawable folder.
+At last, copy the android manifest xml file in app>manifests folder.
 
 *Better get your own api key from ocr space api.
-*The result displayed depends upon the ocr-space server.
+*The result displayed depends upon the ocr-space server functioning and availablity.
