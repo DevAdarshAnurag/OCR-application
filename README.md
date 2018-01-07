@@ -1,5 +1,5 @@
 # OCR-application
-Android application to extract text in images into a text file.
+Android application to extract text in images as JSON.
 
 This application uses Ocr space api for image to text conversions.
 
